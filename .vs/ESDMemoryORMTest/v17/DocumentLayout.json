@@ -1,0 +1,139 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Users\\suresh.bhandari\\source\\repos\\ESDMemoryORMTest\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{392FF5F1-1936-4D7D-B2BD-F2CED4F5D111}|ESDMemoryORMTest.csproj|d:\\users\\suresh.bhandari\\source\\repos\\esdmemoryormtest\\memdb\\dbservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{392FF5F1-1936-4D7D-B2BD-F2CED4F5D111}|ESDMemoryORMTest.csproj|solutionrelative:memdb\\dbservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{392FF5F1-1936-4D7D-B2BD-F2CED4F5D111}|ESDMemoryORMTest.csproj|d:\\users\\suresh.bhandari\\source\\repos\\esdmemoryormtest\\controllers\\devicesessioncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{392FF5F1-1936-4D7D-B2BD-F2CED4F5D111}|ESDMemoryORMTest.csproj|solutionrelative:controllers\\devicesessioncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{392FF5F1-1936-4D7D-B2BD-F2CED4F5D111}|ESDMemoryORMTest.csproj|d:\\users\\suresh.bhandari\\source\\repos\\esdmemoryormtest\\model\\devicesession.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{392FF5F1-1936-4D7D-B2BD-F2CED4F5D111}|ESDMemoryORMTest.csproj|solutionrelative:model\\devicesession.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{392FF5F1-1936-4D7D-B2BD-F2CED4F5D111}|ESDMemoryORMTest.csproj|d:\\users\\suresh.bhandari\\source\\repos\\esdmemoryormtest\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{392FF5F1-1936-4D7D-B2BD-F2CED4F5D111}|ESDMemoryORMTest.csproj|solutionrelative:startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{392FF5F1-1936-4D7D-B2BD-F2CED4F5D111}|ESDMemoryORMTest.csproj|d:\\users\\suresh.bhandari\\source\\repos\\esdmemoryormtest\\memdb\\redisomindexinitializer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{392FF5F1-1936-4D7D-B2BD-F2CED4F5D111}|ESDMemoryORMTest.csproj|solutionrelative:memdb\\redisomindexinitializer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{392FF5F1-1936-4D7D-B2BD-F2CED4F5D111}|ESDMemoryORMTest.csproj|d:\\users\\suresh.bhandari\\source\\repos\\esdmemoryormtest\\esdmemoryormtest.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{392FF5F1-1936-4D7D-B2BD-F2CED4F5D111}|ESDMemoryORMTest.csproj|solutionrelative:esdmemoryormtest.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 250,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DBService.cs",
+              "DocumentMoniker": "D:\\Users\\suresh.bhandari\\source\\repos\\ESDMemoryORMTest\\MemDB\\DBService.cs",
+              "RelativeDocumentMoniker": "MemDB\\DBService.cs",
+              "ToolTip": "D:\\Users\\suresh.bhandari\\source\\repos\\ESDMemoryORMTest\\MemDB\\DBService.cs",
+              "RelativeToolTip": "MemDB\\DBService.cs",
+              "ViewState": "AQIAABMAAAAAKAAAAAAawDcAAAALAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-19T11:16:51.819Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{320fd13f-632f-4b16-9527-a1adfe555f6c}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DeviceSession.cs",
+              "DocumentMoniker": "D:\\Users\\suresh.bhandari\\source\\repos\\ESDMemoryORMTest\\Model\\DeviceSession.cs",
+              "RelativeDocumentMoniker": "Model\\DeviceSession.cs",
+              "ToolTip": "D:\\Users\\suresh.bhandari\\source\\repos\\ESDMemoryORMTest\\Model\\DeviceSession.cs",
+              "RelativeToolTip": "Model\\DeviceSession.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAcAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-19T07:49:56.851Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ESDMemoryORMTest.csproj",
+              "DocumentMoniker": "D:\\Users\\suresh.bhandari\\source\\repos\\ESDMemoryORMTest\\ESDMemoryORMTest.csproj",
+              "RelativeDocumentMoniker": "ESDMemoryORMTest.csproj",
+              "ToolTip": "D:\\Users\\suresh.bhandari\\source\\repos\\ESDMemoryORMTest\\ESDMemoryORMTest.csproj",
+              "RelativeToolTip": "ESDMemoryORMTest.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAABRAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-09-18T10:04:39.009Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "RedisOMIndexInitializer.cs",
+              "DocumentMoniker": "D:\\Users\\suresh.bhandari\\source\\repos\\ESDMemoryORMTest\\MemDB\\RedisOMIndexInitializer.cs",
+              "RelativeDocumentMoniker": "MemDB\\RedisOMIndexInitializer.cs",
+              "ToolTip": "D:\\Users\\suresh.bhandari\\source\\repos\\ESDMemoryORMTest\\MemDB\\RedisOMIndexInitializer.cs",
+              "RelativeToolTip": "MemDB\\RedisOMIndexInitializer.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAuwBsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-19T08:03:36.704Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Startup.cs",
+              "DocumentMoniker": "D:\\Users\\suresh.bhandari\\source\\repos\\ESDMemoryORMTest\\Startup.cs",
+              "RelativeDocumentMoniker": "Startup.cs",
+              "ToolTip": "D:\\Users\\suresh.bhandari\\source\\repos\\ESDMemoryORMTest\\Startup.cs",
+              "RelativeToolTip": "Startup.cs",
+              "ViewState": "AQIAADoAAAAAnJmZmZn3vzAAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-19T08:29:05.221Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DeviceSessionController.cs",
+              "DocumentMoniker": "D:\\Users\\suresh.bhandari\\source\\repos\\ESDMemoryORMTest\\Controllers\\DeviceSessionController.cs",
+              "RelativeDocumentMoniker": "Controllers\\DeviceSessionController.cs",
+              "ToolTip": "D:\\Users\\suresh.bhandari\\source\\repos\\ESDMemoryORMTest\\Controllers\\DeviceSessionController.cs",
+              "RelativeToolTip": "Controllers\\DeviceSessionController.cs",
+              "ViewState": "AQIAAKEAAACAzszMzIwuwKsAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-19T08:16:46.197Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
